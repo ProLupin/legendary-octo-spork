@@ -1,0 +1,28 @@
+.heading{
+    font-family: 'DynaPuff', cursive;
+    font-size:40px;
+    width:100%;
+    margin-top:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.note{
+    font-size:15px;
+}
+body{
+    background-size: cover;
+}
+#copy_right_footer{
+    width:100%;
+    position:fixed;
+    color:black;
+    background-color: aliceblue;
+    bottom:0;
+    line-height:3;
+    font-size:15px;
+    font-family: 'DynaPuff', cursive;
+}
+canvas{
+    border:5px solid grey;
+    border-radius:20px;
+    box-shadow:5px 5px 20px white;
+}
